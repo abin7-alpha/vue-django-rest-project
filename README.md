@@ -1,1 +1,1 @@
-# vue-django-rest-project
+<p>Chack out the master branch</p>
